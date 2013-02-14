@@ -1,3 +1,11 @@
 *pyc
 *~
 
+build/
+dist/
+environments/
+PyMos.egg-info/
+sample/thumbs/
+
+
+

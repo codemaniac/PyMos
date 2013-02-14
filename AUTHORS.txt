@@ -1,0 +1,7 @@
+The PRIMARY AUTHORS are (ordered by aproximated LOC number):
+
+    * Ashish Prasad <ashish.prasad@cognizant.com>
+
+And a big THANK YOU goes to:
+
+    * Guido van Rossum for creating Python.

@@ -1,0 +1,3 @@
+#!/bin/sh
+
+python flickrfetch.py $1 $2 | xargs wget --directory-prefix=../sample/thumbs

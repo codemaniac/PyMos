@@ -1,3 +1,0 @@
-#!/bin/sh
-
-python ./flickfetch.py $1 $2 | xargs wget --directory-prefix=../sandbox/thumbs
