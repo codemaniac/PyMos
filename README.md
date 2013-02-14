@@ -6,8 +6,8 @@ Mosaic Generator
 
 ### Installation
 
-	$ git clone 
-	$ cd pymosaic
+	$ git clone https://github.com/codemaniac/PyMos.git
+	$ cd PyMos
 	$ virtualenv env
 	$ . env/bin/activate
 	$ python setup.py install
@@ -17,9 +17,9 @@ Mosaic Generator
 	$ cd tools
 	$ . prepare_sample_thumbs {TAGS} {PAGE}
 
-### pymosaic Help
+### Help
 
-	$ pymosaic -h
+	$ pymos -h
 
 ## Contributors
 
